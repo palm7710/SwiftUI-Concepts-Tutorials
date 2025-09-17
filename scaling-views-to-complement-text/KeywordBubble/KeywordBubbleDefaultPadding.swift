@@ -10,7 +10,7 @@ struct KeywordBubbleDefaultPadding: View {
     let symbol: String
     var body: some View {
         Label(keyword, systemImage: symbol)
-            .font(.title)
+            .font(.largeTitle)
             .foregroundColor(.white)
             .padding()
             .background(.purple.opacity(0.75), in: Capsule())
