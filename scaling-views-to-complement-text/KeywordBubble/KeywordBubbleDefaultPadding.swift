@@ -22,7 +22,7 @@ struct KeywordBubbleDefaultPadding_Previews: PreviewProvider {
     static var previews: some View {
         VStack {
             ForEach(keywords, id: \.self) { word in
-                KeywordBubbleDefaultPadding(keyword: word, symbol: "leaf")
+                KeywordBubbleDefaultPadding(keyword: word, symbol: "leaf.fill")
             }
         }
     }
