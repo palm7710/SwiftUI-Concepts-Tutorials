@@ -1,7 +1,6 @@
-//
-//  MyApp.swift
-//  SwiftUI-Concepts-Tutorials
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+*/
 
 import SwiftUI
 
